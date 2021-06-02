@@ -1,5 +1,5 @@
 {
-    "name": "pj/framework",
+    "name": "pawel-jakowczyk/example-app-home",
     "description": "",
     "require": {
         "psr/http-server-handler": "^1.0",
