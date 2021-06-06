@@ -1,6 +1,6 @@
 {
     "name": "pawel-jakowczyk/example-app-home",
-    "description": "",
+    "description": "Example RequestHandler and RequestHandlerFactory",
     "require": {
         "psr/http-server-handler": "^1.0",
         "psr/http-server-middleware": "^1.0",
