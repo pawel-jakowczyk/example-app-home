@@ -1,6 +1,7 @@
 {
     "name": "pawel-jakowczyk/example-app-home",
     "description": "Example RequestHandler and RequestHandlerFactory",
+    "license": "MIT",
     "require": {
         "psr/http-server-handler": "^1.0",
         "psr/http-server-middleware": "^1.0",
